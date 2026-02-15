@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m **Elavarasi S**, a **Cyber Security & Network Security Analyst** from **Dharmapuri, Tamil Nadu (India)**. <br>
+Hi! I’m **Elavarasi S**, a **Cyber Security & Network Security Analyst**. <br>
 I’m a motivated cybersecurity enthusiast with hands-on experience in **penetration testing, vulnerability assessment, and network analysis**. <br><br>
 
 I am passionate about strengthening digital infrastructures by identifying vulnerabilities, analyzing threats, and applying ethical hacking techniques to improve system security.  
